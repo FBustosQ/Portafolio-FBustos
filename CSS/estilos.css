@@ -28,6 +28,7 @@ body {
     padding-top: 70px; /* espacio para el navbar fijo */
 }
 
+
 /* =========================================
    NAVBAR
    ========================================= */
@@ -160,7 +161,7 @@ body {
 .section-text {
     font-size: 1.05rem;
     color: var(--gris-medio);
-    text-align: center;
+    text-align: justify;
 }
 
 /* =========================================
