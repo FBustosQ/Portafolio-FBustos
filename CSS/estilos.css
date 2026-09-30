@@ -365,6 +365,17 @@ body {
     border-radius: 6px;
 }
 
+iframe {
+    display: block;        /* necesario para que margin auto funcione */
+    margin: 30px auto;     /* ← centra horizontalmente */
+    width: 90%;
+    max-width: 900px;
+    height: 700px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
 /* =========================================
    RESPONSIVE
    ========================================= */
